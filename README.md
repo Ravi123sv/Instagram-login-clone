@@ -54,8 +54,8 @@ python server.py
 
 ## 📸 Preview
 
-*(Add screenshot here if available)*
-![Preview](https://via.placeholder.com/700x400?text=Instagram+Login+Clone)
+![Preview](![image](https://github.com/user-attachments/assets/7c80a3e5-2d21-4f13-810d-567d4fa101ed)
+)
 
 ---
 
