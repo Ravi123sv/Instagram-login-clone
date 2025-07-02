@@ -53,9 +53,8 @@ python server.py
 ---
 
 ## 📸 Preview
+![image](https://github.com/user-attachments/assets/2df50a59-ae66-427c-bd6f-c15169007f9f)
 
-![Preview](![image](https://github.com/user-attachments/assets/7c80a3e5-2d21-4f13-810d-567d4fa101ed)
-)
 
 ---
 
